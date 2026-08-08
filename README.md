@@ -7,6 +7,6 @@ This project will allow me to practice basic and most used elements in html. In 
 - [CREDITS](#credits)
 
 ## Credits
-Cookies image from [uxsj_ph](https://unsplash.com/@uxsj_ph)
-Pupusas image from [Daniel Lloyd Blunk-Fernández](https://unsplash.com/@blunkorama)
-Pancakes image from [nikldn](https://unsplash.com/@nikldn)
+Cookies image from [uxsj_ph](https://unsplash.com/@uxsj_ph)<br>
+Pupusas image from [Daniel Lloyd Blunk-Fernández](https://unsplash.com/@blunkorama)<br>
+Pancakes image from [nikldn](https://unsplash.com/@nikldn)<br>
