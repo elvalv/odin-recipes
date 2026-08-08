@@ -10,3 +10,5 @@ This project will allow me to practice basic and most used elements in html. In 
 Cookies image from [uxsj_ph](https://unsplash.com/@uxsj_ph)<br>
 Pupusas image from [Daniel Lloyd Blunk-Fernández](https://unsplash.com/@blunkorama)<br>
 Pancakes image from [nikldn](https://unsplash.com/@nikldn)<br>
+Banh Mi image from [Deepthi Clicks](https://unsplash.com/@switchinglanes)<br>
+Vietnamese Fresh Spring Rolls image from [Alexander Sinn](https://unsplash.com/@swimstaralex)
