@@ -5,6 +5,7 @@ This project will allow me to practice basic and most used elements in html. In 
 ## Table of Contents
 
 - [Credits](#credits)
+- [View Website Here](https://elvalv.github.io/odin-recipes/index.html)
 
 ## Credits
 Cookies image from [uxsj_ph](https://unsplash.com/@uxsj_ph)<br>
