@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-family: "Times New Roman", sans-serif;
+ }
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.links-list a{
+    background-color: rgb(75, 179, 214);
+    color: white;
+    margin-right: 1em;
+    text-decoration: none;
+}
+
+.links-list {
+    display: flex;
+    list-style: none;
+}
+
+.links-list a:hover {
+    background-color: rgb(52, 129, 155);
+    color: white;
+}
