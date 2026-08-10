@@ -4,8 +4,12 @@ This project will allow me to practice basic and most used elements in html. In 
 
 ## Table of Contents
 
+- [Update](#update)
 - [Credits](#credits)
 - [View Website Here](https://elvalv.github.io/odin-recipes/index.html)
+
+## Update
+Successfully added this project to my portfolio webpage. Because of this update, I addded a navigation bar to Odin Recipes which will allow you to navigate between the webpages here and the webpages in my portfolio webpage.
 
 ## Credits
 Cookies image from [uxsj_ph](https://unsplash.com/@uxsj_ph)<br>
