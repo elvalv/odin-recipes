@@ -1,19 +1,14 @@
-html {
-    box-sizing: border-box;
-    font-family: "Times New Roman", sans-serif;
- }
-
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
+nav, .links-list {
+    margin-top: 0;
+    padding-top: 10px;
 }
 
+/* buttons in navigation bar on top */
 .links-list a{
-    background-color: rgb(75, 179, 214);
-    color: white;
+    background-color: orange;
     margin-right: 1em;
     text-decoration: none;
+    padding: 5px 10px;
 }
 
 .links-list {

@@ -1,0 +1,22 @@
+* {
+    font-family: "Arial", sans-serif;
+}
+
+html {
+    background-color: orange;
+}
+
+body {
+    background-color: white;
+    margin-top: 0;
+    margin: 0px 20%;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe-list a {
+    text-decoration: none;
+}
