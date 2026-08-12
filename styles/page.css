@@ -17,6 +17,12 @@ body {
     align-items: center;
 }
 
+.recipe-img {
+    height: auto;
+    width: 100%;
+    max-width: 300px;
+}
+
 .recipe-list a {
     text-decoration: none;
 }
